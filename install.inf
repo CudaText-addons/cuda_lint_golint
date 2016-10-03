@@ -1,0 +1,5 @@
+[info]
+title=Linter for Go, using golint
+desc=Linter for CudaLint, adds support for Go lexer, using "golint"
+type=cudatext-plugin
+subdir=cuda_lint_golint
